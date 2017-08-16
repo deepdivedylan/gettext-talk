@@ -1,0 +1,30 @@
+# gettext talk
+# Copyright (C) 2017
+# This file is distributed under the same license as the gettext-talk package.
+# Dylan McDonald <dmcdonald21@cnm.edu>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-16 00:17+0000\n"
+"PO-Revision-Date: 2017-08-16 00:17+0000\n"
+"Last-Translator: Dylan McDonald <dmcdonald21@cnm.edu>\n"
+"Language-Team: Dylan McDonald <dmcdonald21@cnm.edu>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index.php:19
+msgid "A Site About WAT"
+msgstr "A Site About WAT"
+
+#: index.php:22
+msgid "WAT"
+msgstr "WAT"
+
+#: index.php:23
+msgid "WAT is the result of {} + {} or [] + []. You can't do that! WAT!?"
+msgstr "WAT is the result of {} + {} or [] + []. You can't do that! WAT!?"
